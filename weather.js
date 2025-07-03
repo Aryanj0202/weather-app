@@ -1,4 +1,4 @@
-const apikey = '87d256e7f314529fd83c5ad6a8b496bc';
+const apikey = 'yourpersonalapikey';
 
 const latlongurl =`http://api.openweathermap.org/geo/1.0/direct?q={city name}&limit=1&appid=${apikey}`;
 
